@@ -1,4 +1,5 @@
 # basic options
+theme: minima
 title: Welcome to My Home Page
 author: Amirhossein Basareh
 email: basareh.ab@gmail.com
@@ -7,4 +8,4 @@ twitter_username: jekyllrb
 github_username:  jekyl
 # Build settings
 markdown: kramdown
-theme: minima
+
