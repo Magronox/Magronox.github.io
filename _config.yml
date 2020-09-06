@@ -1,2 +1,10 @@
-theme: jekyll-theme-minimal
-title: Amirhossein Basareh
+# basic options
+title: Welcome to My Home Page
+author: Amirhossein Basareh
+email: basareh.ab@gmail.com
+description: A wonderful site
+twitter_username: jekyllrb
+github_username:  jekyl
+# Build settings
+markdown: kramdown
+theme: minima
