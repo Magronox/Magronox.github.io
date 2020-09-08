@@ -1,6 +1,6 @@
 ---
 layout: page
-title:Hi!
+title: Hi!
 ---
 
  Welcome to my home page
