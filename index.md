@@ -1,5 +1,7 @@
- layout: default
- title: home
+---
+layout: page
+title: home
+---
 
 
 Hi! welcome to my home page. 
