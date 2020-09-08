@@ -1,8 +1,9 @@
 ---
 layout: page
-title:
+title:Hi!
 ---
-Hi! Welcome to my home page
+
+ Welcome to my home page
 =============
 
 
