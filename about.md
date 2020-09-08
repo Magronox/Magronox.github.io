@@ -3,5 +3,6 @@ layout: page
 title: About
 ---
 
-##welcome to my homepage.
-My name is Amirhossein Basareh
+
+My name is Amirhossein Basareh(امیرحسین بساره) and I'm a B.Sc. student at Sharif University of Technology, school of Electrical Engineering
+
