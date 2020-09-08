@@ -1,11 +1,8 @@
 ---
 layout: page
-title: home
+title: Hi! welcome to my home page. 
 ---
 
-
-Hi! welcome to my home page. 
-============================
 
 
 My name is Amirhossein Basareh, you can read about me on the about tab.
