@@ -1,5 +1,5 @@
 # basic options
-theme: minima
+
 title: Amirhossein Basareh
 author: Amirhossein Basareh
 email: basareh.ab@gmail.com
@@ -8,4 +8,4 @@ twitter_username: Arimagro
 github_username:  Magronox
 # Build settings
 markdown: kramdown
-
+theme: minima
