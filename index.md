@@ -7,5 +7,6 @@ title: Hi!
  Welcome to my home page
 =============
 
-You can read about me [here](http://magronox.github.io/about).
+I'm an undergraduate student in Electrical Engineering at Sharif University of Technology, interested in graphical models, meta-learning, probability theory, and information theory.I am mainly interested in theoretical work. 
+You can read more about me [here](http://magronox.github.io/about).
 
