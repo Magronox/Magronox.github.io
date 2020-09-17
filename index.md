@@ -13,7 +13,7 @@ I am interested in graphical models, meta-learning, unsupervised learning, proba
 
 I am mainly interested in theoretical work. 
 
-  <h2>On-going Research:</h2>
+  <h3>On-going Research:</h3>
   
   1. Clustering and graphical models
   2. Meta-learning
