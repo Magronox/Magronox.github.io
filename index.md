@@ -7,7 +7,9 @@ title: Hi!
  Welcome to my home page
 =============
 
-I'm an undergraduate student in Electrical Engineering at Sharif University of Technology. I am interested in graphical models, meta-learning, unsupervised learning, probability theory, and information theory.I am mainly interested in theoretical work. 
+I'm an undergraduate student in Electrical Engineering at Sharif University of Technology.
+I am interested in graphical models, meta-learning, unsupervised learning, probability theory, and information theory.
+I am mainly interested in theoretical work. 
 
   On-going Research:
   ---------
