@@ -9,7 +9,7 @@ title: Hi!
 
 I'm an undergraduate student in Electrical Engineering at Sharif University of Technology. I am interested in graphical models, meta-learning, unsupervised learning, probability theory, and information theory.I am mainly interested in theoretical work. 
 
- ## On-going research:
+ ## On-going Research:
   1. Clustering and graphical models
   2. Meta-learning
 
