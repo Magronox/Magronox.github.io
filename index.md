@@ -1,7 +1,7 @@
----
+=========
 layout: page
 title: Hi!
----
+====
  <a href="url"><img align="right" src="https://github.com/Magronox/Magronox.github.io/blob/master/images/A259.png?raw=true" height="auto" width="500" style="border-radius:50%"></a>
 
  Welcome to my home page
@@ -9,7 +9,8 @@ title: Hi!
 
 I'm an undergraduate student in Electrical Engineering at Sharif University of Technology. I am interested in graphical models, meta-learning, unsupervised learning, probability theory, and information theory.I am mainly interested in theoretical work. 
 
- ## On-going Research:
+  On-going Research:
+  ---------
   1. Clustering and graphical models
   2. Meta-learning
 
