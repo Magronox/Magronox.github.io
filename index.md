@@ -9,8 +9,7 @@ title: Hi!
 
 I'm an undergraduate student in Electrical Engineering at Sharif University of Technology.
 
-I am interested in graph analysis, data analysis, statistics, and information theory.
-I am mainly interested in theoretical work. 
+I am interested in graph analysis, randomized algorithms, data analysis, and information theory. 
 
   <h3>On-going Research:</h3>
   
