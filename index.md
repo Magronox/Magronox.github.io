@@ -11,7 +11,7 @@ I'm an undergraduate student in Electrical Engineering at Sharif University of T
 
 I am interested in graph analysis, randomized algorithms, data analysis, and information theory. I am also interested in theoretical concepts related to machine learning and neural networks.
 
-I should point out that I recently became familiar with the movement Tristan Harris started regarding humane technology and I encourage you to [get involved!](https://www.humanetech.com/get-involved).
+I should point out that I recently became familiar with the movement Tristan Harris started regarding humane technology and I encourage you to [get involved!](https://www.humanetech.com/get-involved)
 
 
   <h3>On-going Research:</h3>
